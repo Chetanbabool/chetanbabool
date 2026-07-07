@@ -1,4 +1,3 @@
-```markdown
 <!-- ======================== Banner ======================== -->
 
 <h1 align="center">Hi 👋, I'm Chetan Babool</h1>
