@@ -11,7 +11,7 @@ Founder of <b>CK Tech Institute</b> | Python Trainer | Aspiring Data Scientist
 
 ---
 
-## 💡 Quote I Live By
+<!-- ## 💡 Quote I Live By -->
 
 <!-- **"Success doesn't come from what you do occasionally, it comes from what you do consistently."** -->
 
