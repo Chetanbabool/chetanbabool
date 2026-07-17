@@ -4,7 +4,9 @@
 <h3 align="center">
 Founder of <b>CK Tech Institute</b> | Python Trainer | Aspiring Data Scientist
 </h3>
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR0b2YwamllOXNuMDNzejdnbGttNG02OXlqMnY3czZzdGI1aHlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t3nIrsrrBfqaZykHGW/giphy.gif" width="700" alt="Coding Animation">
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Python+Developer;Data+Analytics+Enthusiast;Founder+of+CK+Tech+Institute;Always+Learning+Something+New+🚀" />
 </p>
