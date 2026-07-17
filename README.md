@@ -9,6 +9,7 @@ Founder of <b>CK Tech Institute</b> | Python Trainer | Aspiring Data Scientist
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Python+Developer;Data+Analytics+Enthusiast;Founder+of+CK+Tech+Institute;Always+Learning+Something+New+🚀" />
 </p>
 
+<div class="tenor-gif-embed" data-postid="17435514273235204753" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/robotic-process-automation-market-robotic-process-automation-rpa-market-robotic-process-cloud-based-rpa-gif-17435514273235204753">Robotic Process Automation Market Rpa Market Meme</a>from <a href="https://tenor.com/search/robotic+process+automation+market-memes">Robotic Process Automation Market Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 <!-- ## 💡 Quote I Live By -->
